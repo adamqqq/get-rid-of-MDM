@@ -1,0 +1,1 @@
+These are directions to rid your Mac OS computer of the MDM which is "remote management" pairing your Mac to a company's specifications.  Supposedly this is to protect against stolen systems but actually it is meant to harm the used computer market making a system non functional and requiring a new one to be purchased.
